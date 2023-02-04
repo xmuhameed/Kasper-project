@@ -1091,4 +1091,8 @@ line-height: 2;
   font-weight: bold;
   color: var(--main-color);
 }
+.footer a {
+    font-weight: bold;
+    color: var(--main-color);
+    text-decoration: none;
 /* End Footer */
